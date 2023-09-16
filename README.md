@@ -4,7 +4,7 @@ Config files for my GitHub profile.
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/Voraciousbird73870/bancodedados/blob/main/IMAGEM.png"/>
+<img align="center" alt="Header" src="https://github.com/voraciousbird73870/bancodedados/blob/main/IMAGEM.png"/>
 </div>
 
 -----
