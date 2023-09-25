@@ -8,3 +8,10 @@ Config files for my GitHub profile.
 </div>
 
 -----
+-----
+
+<div>
+<img align="center" alt="Header" src="https://github.com/voraciousbird73870/bancodedados/blob/main/IMAGEM.png"/>
+</div>
+
+-----
